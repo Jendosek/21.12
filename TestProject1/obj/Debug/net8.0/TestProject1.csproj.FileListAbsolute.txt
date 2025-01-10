@@ -108,3 +108,10 @@
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.pdb
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.genruntimeconfig.cache
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/ref/TestProject1.dll
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/CoverletSourceRootsMapping_TestProject1
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/21.12.deps.json
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/21.12.runtimeconfig.json
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/21.12
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/21.12.dll
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/bin/Debug/net8.0/21.12.pdb
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.sourcelink.json

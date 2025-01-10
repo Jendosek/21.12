@@ -12,3 +12,4 @@
 /Users/evgenijbalaker/RiderProjects/21.12/21.12/obj/Debug/net8.0/21.12.pdb
 /Users/evgenijbalaker/RiderProjects/21.12/21.12/obj/Debug/net8.0/21.12.genruntimeconfig.cache
 /Users/evgenijbalaker/RiderProjects/21.12/21.12/obj/Debug/net8.0/ref/21.12.dll
+/Users/evgenijbalaker/RiderProjects/21.12/21.12/obj/Debug/net8.0/21.12.sourcelink.json
