@@ -108,3 +108,4 @@
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.pdb
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.genruntimeconfig.cache
 /Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/ref/TestProject1.dll
+/Users/evgenijbalaker/RiderProjects/21.12/TestProject1/obj/Debug/net8.0/TestProject1.sourcelink.json
